@@ -119,7 +119,7 @@ cd "$HOME\Documents"
 Next, clone the repository from GitHub:
 
 ```powershell
-git clone https://github.com/owenvisser/PHC-6099-Neural-Network-Walkthrough.git
+git clone https://github.com/owenvisser/Neural-Network-Walkthrough.git
 ```
 
 Git will download the project and create a folder containing all the necessary files.
@@ -129,7 +129,7 @@ Git will download the project and create a folder containing all the necessary f
 After cloning the repository, enter:
 
 ```powershell
-cd PHC-6099-Neural-Network-Walkthrough
+cd Neural-Network-Walkthrough
 code .
 ```
 
